@@ -34,8 +34,8 @@ cloud-based solutions
 
 ## 📫 Contact
 <p>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/username](https://www.linkedin.com/in/jasur-mavlonov-651697256/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:jasurmavlonov24@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
