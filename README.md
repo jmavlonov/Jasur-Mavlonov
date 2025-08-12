@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 by Jasur Mavlonov
 Experienced Python Django developer with 3+ years of hands-on experience in developing 
 scalable web applications. Proficient in back-end development, RESTful API integration, and 
 cloud-based solutions
